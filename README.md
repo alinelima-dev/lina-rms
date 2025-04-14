@@ -5,7 +5,7 @@
 </div>
 
 
-<p align="center">Graduanda em Engenharia de Software pela Universidade Federal do Amazonas e apaixonada por tecnologia. Buscando sempre me desafiar e evoluir profissionalmente, aprendendo novas habilidades e aprimorando meu conhecimento continuamente.
+<p align="center">Graduanda em Engenharia de Software pela Universidade Federal do Amazonas e apaixonada por tecnologia. Buscando sempre me desafiar e evoluir profissionalmente aprendendo novas habilidades e aprimorando meu conhecimento continuamente.
   
 #
 
